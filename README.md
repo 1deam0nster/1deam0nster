@@ -8,4 +8,4 @@
 * 🧠  Программирую/проектирую устройства на основе микроконтроллеров esp32/atmel, linux devboards в свободное время. 
 * 🤝  Открыт для сотрудничества в интересных проектах 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,npm,webpack,yarn,tailwind,vue,astro,bootstrap,python,flask,docker,webflow,ps,figma,vscode,linux,debian,cpp,arduino,raspberry)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,npm,webpack,gulp,yarn,jquery,tailwind,vue,astro,bootstrap,python,flask,docker,github,webflow,ps,figma,vscode,bash,apple,linux,debian,cpp,arduino,raspberry,bots)](https://skillicons.dev)
